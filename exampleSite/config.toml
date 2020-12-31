@@ -528,7 +528,7 @@ enableEmoji = true
           appID = "PASDMWALPK"
           searchKey = "b42948e51daaa93df92381c8e2ac0f93"
       # Home page config
-      [languages.fr.params.home]
+      [languages.fr.params.home1]
         # amount of RSS pages
         rss = 10
         # Home page profile
